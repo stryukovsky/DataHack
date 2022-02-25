@@ -13,6 +13,10 @@ def pie_chart(request: HttpRequest) -> HttpResponse:
     return render(request, "PieChart.html")
 
 
+def universities_list(request: HttpRequest) -> HttpResponse:
+    return render(request, "UniversitiesList.html", {"universities": University.objects.filter()})
+
+
 class UniversityViewSet(ModelViewSet):
     queryset = University.objects.exclude(longitude__isnull=True).exclude(sum__lte=1).order_by('-sum')
     serializer_class = UniversitySerializer

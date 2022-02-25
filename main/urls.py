@@ -10,6 +10,7 @@ router.register("pie_chart_universities", views.PieChartUniversityViewSet)
 urlpatterns = [
     path("", views.index),
     path("pie_chart", views.pie_chart),
+    path("u_list", views.universities_list)
 ]
 
 urlpatterns += router.urls
