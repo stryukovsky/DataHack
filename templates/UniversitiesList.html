@@ -90,15 +90,18 @@
                 const go_prev = () => {
                     const urlParams = new URLSearchParams(window.location.search);
                     let page = Number(urlParams.get("page")) - 1;
+                    if (page <= 0) {
+                        page = 1;
+                    }
                     window.location.replace(`/u_list?page=${page}`);
                 }
             </script>
 
-        <div style="text-align: center">
-            <button onclick="go_prev()">&lt;</button>
-            <button onclick="go_next()">&gt;</button>
-        </div>
-
+            <div style="text-align: center">
+                <button onclick="go_prev()">&lt;</button>
+                <button disabled id="current_page">{{ current_page }}</button>
+                <button onclick="go_next()">&gt;</button>
+            </div>
         </main>
     </div>
 </div>
