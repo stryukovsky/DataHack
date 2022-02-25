@@ -30,21 +30,21 @@
             <div class="position-sticky pt-3">
                 <ul class="nav flex-column">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">
+                        <a class="nav-link active" aria-current="page">
                             <span data-feather="home"></span>
-                            карта
+                            Карта
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="/pie_chart">
                             <span data-feather="file"></span>
-                            диаграмма
+                            Диаграмма
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">
                             <span data-feather="shopping-cart"></span>
-                            список
+                            Список
                         </a>
                     </li>
                 </ul>
@@ -54,12 +54,11 @@
 
         <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
             <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                <h1 class="h2">карта</h1>
+                <h1 class="h2">Карта</h1>
 
             </div>
 
-            <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
-
+            <div id="YMapsID"  style="width: 700px; height: 500px;"></div>
         </main>
     </div>
 </div>
@@ -75,4 +74,45 @@
         integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha"
         crossorigin="anonymous"></script>
 </body>
+
+<script src="https://api-maps.yandex.ru/2.1?apikey=INSERT_API_KEY_HERE&lang=ru_RU"
+        type="text/javascript"></script>
+<script>
+    ymaps.ready(async function () {
+        const myMap = new ymaps.Map("YMapsID", {
+                center: [55.76, 37.64],
+                zoom: 10
+            }),
+            objectManager = new ymaps.ObjectManager({
+                clusterize: true,
+                gridSize: 32,
+                clusterDisableClickZoom: true
+            });
+        objectManager.objects.options.set('preset', 'islands#greenDotIcon');
+        objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');
+        myMap.geoObjects.add(objectManager);
+
+        let counter = 0;
+        let response = await fetch("http://127.0.0.1:8000/universities/");
+        if (response.ok) {
+            const universities = await response.json();
+            for (let university of universities) {
+                objectManager.add({
+                    type: 'Feature',
+                    id: counter++,
+                    geometry: {
+                        type: 'Point',
+                        coordinates: [Number(university.latitude), Number(university.longitude)]
+                    },
+                    properties: {
+                        hintContent: 'univer name',
+                        balloonContent: university.name
+                    }
+                });
+            }
+        } else {
+            alert("Ошибка HTTP: " + response.status);
+        }
+    });
+</script>
 </html>
