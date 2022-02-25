@@ -8,34 +8,41 @@
 <script src="https://api-maps.yandex.ru/2.1?apikey=INSERT_API_KEY_HERE&lang=ru_RU"
         type="text/javascript"></script>
 <script>
-    ymaps.ready(function () {
+    ymaps.ready(async function () {
         const myMap = new ymaps.Map("YMapsID", {
-            center: [55.76, 37.64],
-            zoom: 10
-        });
+                center: [55.76, 37.64],
+                zoom: 10
+            }),
+            objectManager = new ymaps.ObjectManager({
+                clusterize: true,
+                gridSize: 32,
+                clusterDisableClickZoom: true
+            });
+        objectManager.objects.options.set('preset', 'islands#greenDotIcon');
+        objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');
+        myMap.geoObjects.add(objectManager);
 
-        const myGeoObject = new ymaps.GeoObject({
-            // Описание геометрии.
-            geometry: {
-                type: "Point",
-                coordinates: [55.8, 37.8]
-            },
-            // Свойства.
-            properties: {
-                // Контент метки.
-                iconContent: 'Я тащусь',
-                hintContent: 'Ну давай уже тащи'
+        let counter = 0;
+        let response = await fetch("http://127.0.0.1:8000/universities/");
+        if (response.ok) {
+            const universities = await response.json();
+            for (let university of universities) {
+                objectManager.add({
+                    type: 'Feature',
+                    id: counter++,
+                    geometry: {
+                        type: 'Point',
+                        coordinates: [Number(university.latitude), Number(university.longitude)]
+                    },
+                    properties: {
+                        hintContent: 'univer name',
+                        balloonContent: university.name
+                    }
+                });
             }
-        }, {
-            // Опции.
-            // Иконка метки будет растягиваться под размер ее содержимого.
-            preset: 'islands#blackStretchyIcon',
-            // Метку можно перемещать.
-            draggable: true
-        })
-
-        myMap.geoObjects
-            .add(myGeoObject)
+        } else {
+            alert("Ошибка HTTP: " + response.status);
+        }
     });
 
 
