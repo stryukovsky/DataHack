@@ -1,62 +1,41 @@
 <Certificate>
-    <TypeName>Постоянное</TypeName><TypeCode>Permanent</TypeCode><RegionName>г. Москва</RegionName><RegionCode>77
-</RegionCode><FederalDistrictName>Центральный федеральный округ</FederalDistrictName><FederalDistrictShortName>ЦФО
-</FederalDistrictShortName><FederalDistrictCode>CentralFD</FederalDistrictCode><RegNumber>1253</RegNumber><SerialNumber>
-A
-</SerialNumber><FormNumber>001306</FormNumber><IssueDate>2004-01-20 21:19:17</IssueDate><EndDate>2006-07-11 21:19:17
-</EndDate><ControlOrgan>Федеральная служба по надзору в сфере образования и науки</ControlOrgan><PostAddress>124498, г.
-Москва, г. Зеленоград, проезд 4806, д. 5
-</PostAddress><EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего
-профессионального образования «Национальный исследовательский университет «МИЭТ»
-</EduOrgFullName><EduOrgShortName>Национальный исследовательский университет «МИЭТ»; МИЭТ</EduOrgShortName><EduOrgINN>
-7735041133
-</EduOrgINN><EduOrgKPP>773501001</EduOrgKPP><EduOrgOGRN>1027739615584
-</EduOrgOGRN><IndividualEntrepreneurLastName/><IndividualEntrepreneurFirstName/><IndividualEntrepreneurMiddleName/><IndividualEntrepreneurAddress/><IndividualEntrepreneurEGRIP/><IndividualEntrepreneurINN/><ActualEducationOrganization>
-<Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
-<FullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-    исследовательский университет «Московский институт электронной техники»
-</FullName>
-<ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
-<HeadEduOrgId/>
-<IsBranch>0</IsBranch>
-<PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
-<Phone>(499) 710-22-33</Phone>
-<Fax>(499) 710-22-33</Fax>
-<Email>umk@miee.ru</Email>
-<WebSite/>
-<OGRN>1027739615584</OGRN>
-<INN>7735041133</INN>
-<KPP>773501001</KPP>
-<HeadPost>Ректор</HeadPost>
-<HeadName>Беспалов Владимир Александрович</HeadName>
-<FormName>федеральное государственное автономное образовательное учреждение</FormName>
-<FormCode/>
-<KindName>Университет</KindName>
-<KindCode/>
-<TypeName>Образовательная организация высшего образования</TypeName>
-<TypeCode/>
-<RegionName>г. Москва</RegionName>
-<RegionCode>77</RegionCode>
-<FederalDistrictCode>CentralFD</FederalDistrictCode>
-<FederalDistrictShortName>ЦФО</FederalDistrictShortName>
-<FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
-</ActualEducationOrganization><IndividualEntrepreneur/><Supplements>
-<Supplement>
-    <Id>338c755c-69aa-453a-9a56-2ce36ef7903a</Id>
-    <StatusName>Недействующее</StatusName>
-    <StatusCode/>
-    <Number>4</Number>
-    <SerialNumber/>
-    <FormNumber/>
-    <IssueDate>2004-01-20 21:19:18</IssueDate>
-    <IsForBranch>0</IsForBranch>
-    <Note/>
-    <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-        исследовательский университет «Московский институт электронной техники»
+    <TypeName>Постоянное</TypeName>
+    <TypeCode>Permanent</TypeCode>
+    <RegionName>г. Москва</RegionName>
+    <RegionCode>77
+    </RegionCode>
+    <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
+    <FederalDistrictShortName>ЦФО
+    </FederalDistrictShortName>
+    <FederalDistrictCode>CentralFD</FederalDistrictCode>
+    <RegNumber>1253</RegNumber>
+    <SerialNumber>
+        A
+    </SerialNumber>
+    <FormNumber>001306</FormNumber>
+    <IssueDate>2004-01-20 21:19:17</IssueDate>
+    <EndDate>2006-07-11 21:19:17
+    </EndDate>
+    <ControlOrgan>Федеральная служба по надзору в сфере образования и науки</ControlOrgan>
+    <PostAddress>124498, г.
+        Москва, г. Зеленоград, проезд 4806, д. 5
+    </PostAddress>
+    <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего
+        профессионального образования «Национальный исследовательский университет «МИЭТ»
     </EduOrgFullName>
-    <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
-    <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
+    <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; МИЭТ</EduOrgShortName>
+    <EduOrgINN>
+        7735041133
+    </EduOrgINN>
     <EduOrgKPP>773501001</EduOrgKPP>
+    <EduOrgOGRN>1027739615584
+    </EduOrgOGRN>
+    <IndividualEntrepreneurLastName/>
+    <IndividualEntrepreneurFirstName/>
+    <IndividualEntrepreneurMiddleName/>
+    <IndividualEntrepreneurAddress/>
+    <IndividualEntrepreneurEGRIP/>
+    <IndividualEntrepreneurINN/>
     <ActualEducationOrganization>
         <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
         <FullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
@@ -88,1383 +67,1443 @@ A
         <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
     </ActualEducationOrganization>
     <IndividualEntrepreneur/>
-    <EducationalPrograms>
-        <EducationalProgram>
-            <Id>103e4c86-70ba-4e29-a588-afcdc6f4df72</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Телекоммуникации</ProgrammName>
-            <ProgrammCode>550400</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>63f6468b-bd85-4214-8e43-d7c1e91e9049</Id>
-            <TypeName>-</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Маркетинг</ProgrammName>
-            <ProgrammCode>061500</ProgrammCode>
-            <OKSOCode/>
-            <UGSName>Здравоохранение</UGSName>
-            <UGSCode>060000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>b1a79dfa-7192-4561-b5d2-cbb34b871dda</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Инженерная защита окружающей среды</ProgrammName>
-            <ProgrammCode>330200</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>ef4818b1-e19e-4da0-a2fb-450ca5ab15df</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - специалитет</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Управление качеством</ProgrammName>
-            <ProgrammCode>340100</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-    </EducationalPrograms>
-</Supplement>
-<Supplement>
-    <Id>480927db-cb45-4e9c-bf70-6c6502b4e78c</Id>
-    <StatusName>Недействующее</StatusName>
-    <StatusCode/>
-    <Number>3</Number>
-    <SerialNumber/>
-    <FormNumber/>
-    <IssueDate>2004-01-20 21:19:18</IssueDate>
-    <IsForBranch>0</IsForBranch>
-    <Note/>
-    <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-        исследовательский университет «Московский институт электронной техники»
-    </EduOrgFullName>
-    <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
-    <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
-    <EduOrgKPP>773501001</EduOrgKPP>
-    <ActualEducationOrganization>
-        <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
-        <FullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-            исследовательский университет «Московский институт электронной техники»
-        </FullName>
-        <ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
-        <HeadEduOrgId/>
-        <IsBranch>0</IsBranch>
-        <PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
-        <Phone>(499) 710-22-33</Phone>
-        <Fax>(499) 710-22-33</Fax>
-        <Email>umk@miee.ru</Email>
-        <WebSite/>
-        <OGRN>1027739615584</OGRN>
-        <INN>7735041133</INN>
-        <KPP>773501001</KPP>
-        <HeadPost>Ректор</HeadPost>
-        <HeadName>Беспалов Владимир Александрович</HeadName>
-        <FormName>федеральное государственное автономное образовательное учреждение</FormName>
-        <FormCode/>
-        <KindName>Университет</KindName>
-        <KindCode/>
-        <TypeName>Образовательная организация высшего образования</TypeName>
-        <TypeCode/>
-        <RegionName>г. Москва</RegionName>
-        <RegionCode>77</RegionCode>
-        <FederalDistrictCode>CentralFD</FederalDistrictCode>
-        <FederalDistrictShortName>ЦФО</FederalDistrictShortName>
-        <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
-    </ActualEducationOrganization>
-    <IndividualEntrepreneur/>
-    <EducationalPrograms>
-        <EducationalProgram>
-            <Id>096bd053-80b3-4f8e-8cb8-044e3c411a81</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - специалитет</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Управление качеством</ProgrammName>
-            <ProgrammCode>340100</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>96bd7759-6245-422d-bef7-3d30032c7e03</Id>
-            <TypeName>-</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Маркетинг</ProgrammName>
-            <ProgrammCode>061500</ProgrammCode>
-            <OKSOCode/>
-            <UGSName>Здравоохранение</UGSName>
-            <UGSCode>060000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>a884d041-5bdd-446a-af0e-9ff2bcd2b498</Id>
-            <TypeName>среднее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Микроэлектроника и полупроводниковые приборы</ProgrammName>
-            <ProgrammCode>2001</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>bdb7318b-60ad-45cc-8b51-50a5c2b658cb</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Телекоммуникации</ProgrammName>
-            <ProgrammCode>550400</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>d1560ee6-7976-4c10-8ef9-922a33c9eb19</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Инженерная защита окружающей среды (по отраслям)</ProgrammName>
-            <ProgrammCode>330200</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-    </EducationalPrograms>
-</Supplement>
-<Supplement>
-    <Id>6762aa8c-20fb-468b-99ba-94f39c19b856</Id>
-    <StatusName>Недействующее</StatusName>
-    <StatusCode/>
-    <Number>2</Number>
-    <SerialNumber/>
-    <FormNumber/>
-    <IssueDate>2004-01-20 21:19:18</IssueDate>
-    <IsForBranch>0</IsForBranch>
-    <Note/>
-    <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-        исследовательский университет «Московский институт электронной техники»
-    </EduOrgFullName>
-    <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
-    <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
-    <EduOrgKPP>773501001</EduOrgKPP>
-    <ActualEducationOrganization>
-        <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
-        <FullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-            исследовательский университет «Московский институт электронной техники»
-        </FullName>
-        <ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
-        <HeadEduOrgId/>
-        <IsBranch>0</IsBranch>
-        <PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
-        <Phone>(499) 710-22-33</Phone>
-        <Fax>(499) 710-22-33</Fax>
-        <Email>umk@miee.ru</Email>
-        <WebSite/>
-        <OGRN>1027739615584</OGRN>
-        <INN>7735041133</INN>
-        <KPP>773501001</KPP>
-        <HeadPost>Ректор</HeadPost>
-        <HeadName>Беспалов Владимир Александрович</HeadName>
-        <FormName>федеральное государственное автономное образовательное учреждение</FormName>
-        <FormCode/>
-        <KindName>Университет</KindName>
-        <KindCode/>
-        <TypeName>Образовательная организация высшего образования</TypeName>
-        <TypeCode/>
-        <RegionName>г. Москва</RegionName>
-        <RegionCode>77</RegionCode>
-        <FederalDistrictCode>CentralFD</FederalDistrictCode>
-        <FederalDistrictShortName>ЦФО</FederalDistrictShortName>
-        <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
-    </ActualEducationOrganization>
-    <IndividualEntrepreneur/>
-    <EducationalPrograms>
-        <EducationalProgram>
-            <Id>0589998d-5a1b-4995-9241-a8014ec3e6a0</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Электроника и микроэлектроника</ProgrammName>
-            <ProgrammCode>550700</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Электроника и микроэлектроника</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>09fafb60-0eae-42d3-b735-c42581e0570a</Id>
-            <TypeName>среднее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Среднее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Medium</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Системы автоматизированного проектирования</ProgrammName>
-            <ProgrammCode>220300</ProgrammCode>
-            <OKSOCode/>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>147babbc-5665-4696-a922-541116b6f978</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Управление и информатика в технических системах</ProgrammName>
-            <ProgrammCode>210100</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Электронная техника, радиотехника и связь</UGSName>
-            <UGSCode>210000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>309e4d58-91ae-421e-89b0-0bd2ad73e810</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Программное обеспечение вычислительной техники и автоматизированных систем</ProgrammName>
-            <ProgrammCode>220400</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>5000b129-7b7e-4cd1-9b19-0a3ace462943</Id>
-            <TypeName>-</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </ProgrammName>
-            <ProgrammCode/>
-            <OKSOCode/>
-            <UGSName>Без деления на угс/отрасли</UGSName>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>57c588b1-8b5d-49d8-a576-cb04a953031b</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Материаловедение и технология новых материалов</ProgrammName>
-            <ProgrammCode>551600</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>5838cf32-2a07-459f-8cac-2385d028fe93</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Радиотехника</ProgrammName>
-            <ProgrammCode>552500</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Радиотехника</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>5938a861-23ce-46a9-b90b-7b27713c15dc</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Проектирование и технология электронно-вычислительных средств</ProgrammName>
-            <ProgrammCode>220500</ProgrammCode>
-            <OKSOCode>65</OKSOCode>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Инженер</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>5c8603d4-434d-45cc-81fa-62079df505d7</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Микроэлектроника и полупроводниковые приборы</ProgrammName>
-            <ProgrammCode>014100</ProgrammCode>
-            <OKSOCode>65</OKSOCode>
-            <UGSName>Физико-математические науки</UGSName>
-            <UGSCode>010000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Физик-микроэлектронщик</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>5da6fa03-384c-4684-a286-f932119a7ec9</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Вычислительные машины, комплексы, системы и сети</ProgrammName>
-            <ProgrammCode>220100</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>6f0312d3-1b35-48d6-81bc-79b51edb5288</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Информатика и вычислительная техника</ProgrammName>
-            <ProgrammCode>552800</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Информатика и вычислительная техника</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>78d63921-a7f0-47bc-92f4-377ea260eb19</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Автоматизация и управление</ProgrammName>
-            <ProgrammCode>550200</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Автоматизация и управление</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>7f01ef23-d241-4da9-a1c5-bd62004bdc88</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Комплексная защита объектов информатизации</ProgrammName>
-            <ProgrammCode>075400</ProgrammCode>
-            <OKSOCode/>
-            <UGSName>Культура и искусство</UGSName>
-            <UGSCode>070000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>8cbd6cfb-39b9-4af8-bf64-1a3305c5c501</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Технологические машины и оборудование</ProgrammName>
-            <ProgrammCode>551800</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>93b6fddd-c025-4db1-b324-3da0d76a26a7</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Микроэлектроника и твердотельная электроника</ProgrammName>
-            <ProgrammCode>200100</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Приборостроение и оптотехника</UGSName>
-            <UGSCode>200000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>950cfeff-6802-49e5-855d-827354fc51cf</Id>
-            <TypeName>-</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </ProgrammName>
-            <ProgrammCode/>
-            <OKSOCode/>
-            <UGSName>Без деления на угс/отрасли</UGSName>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>9e6a7ce3-96b2-4a65-87bb-19a2bc425762</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Электронное машиностроение</ProgrammName>
-            <ProgrammCode>200500</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Приборостроение и оптотехника</UGSName>
-            <UGSCode>200000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>a2218b7e-c5be-49b8-86e0-f5f95302c069</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - специалитет</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Радиоэлектронные системы</ProgrammName>
-            <ProgrammCode>201600</ProgrammCode>
-            <OKSOCode/>
-            <UGSName>Приборостроение и оптотехника</UGSName>
-            <UGSCode>200000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>a4861042-2aeb-4a04-8806-e44ab8029b54</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Прикладная математика</ProgrammName>
-            <ProgrammCode>073000</ProgrammCode>
-            <OKSOCode>68</OKSOCode>
-            <UGSName>Культура и искусство</UGSName>
-            <UGSCode>070000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Магистр</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>a5dd0dce-d907-4041-833e-6ba74135299e</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Менеджмент</ProgrammName>
-            <ProgrammCode>521500</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>cbfc7698-e6b0-4f14-a0cd-d6d790142c39</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Биотехнические и медицинские аппараты и системы</ProgrammName>
-            <ProgrammCode>190500</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Транспортные средства</UGSName>
-            <UGSCode>190000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>dd93f26a-9d80-4ce7-ae64-48c1e8c9dba3</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - специалитет</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Менеджмент организации</ProgrammName>
-            <ProgrammCode>061100</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>f85984a2-ad15-4086-9575-886d8f597dfb</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - специалитет</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Прикладная информатика (по областям применения)</ProgrammName>
-            <ProgrammCode>351400</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-    </EducationalPrograms>
-</Supplement>
-<Supplement>
-    <Id>c153204c-bbd6-42b7-80c7-516f47a21d2d</Id>
-    <StatusName>Недействующее</StatusName>
-    <StatusCode/>
-    <Number>1</Number>
-    <SerialNumber/>
-    <FormNumber/>
-    <IssueDate>2004-01-20 21:19:18</IssueDate>
-    <IsForBranch>0</IsForBranch>
-    <Note/>
-    <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-        исследовательский университет «Московский институт электронной техники»
-    </EduOrgFullName>
-    <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
-    <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
-    <EduOrgKPP>773501001</EduOrgKPP>
-    <ActualEducationOrganization>
-        <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
-        <FullName>федеральное государственное автономное образовательное учреждение высшего образования «Национальный
-            исследовательский университет «Московский институт электронной техники»
-        </FullName>
-        <ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
-        <HeadEduOrgId/>
-        <IsBranch>0</IsBranch>
-        <PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
-        <Phone>(499) 710-22-33</Phone>
-        <Fax>(499) 710-22-33</Fax>
-        <Email>umk@miee.ru</Email>
-        <WebSite/>
-        <OGRN>1027739615584</OGRN>
-        <INN>7735041133</INN>
-        <KPP>773501001</KPP>
-        <HeadPost>Ректор</HeadPost>
-        <HeadName>Беспалов Владимир Александрович</HeadName>
-        <FormName>федеральное государственное автономное образовательное учреждение</FormName>
-        <FormCode/>
-        <KindName>Университет</KindName>
-        <KindCode/>
-        <TypeName>Образовательная организация высшего образования</TypeName>
-        <TypeCode/>
-        <RegionName>г. Москва</RegionName>
-        <RegionCode>77</RegionCode>
-        <FederalDistrictCode>CentralFD</FederalDistrictCode>
-        <FederalDistrictShortName>ЦФО</FederalDistrictShortName>
-        <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
-    </ActualEducationOrganization>
-    <IndividualEntrepreneur/>
-    <EducationalPrograms>
-        <EducationalProgram>
-            <Id>1f3ab120-df0b-4baf-87c0-c8aeafc6e8cd</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - магистратура</EduLevelName>
-            <EdulevelShortName>Магистратура</EdulevelShortName>
-            <EduLevelCode></EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Информационные системы (по областям применения)</ProgrammName>
-            <ProgrammCode>071900</ProgrammCode>
-            <OKSOCode>68</OKSOCode>
-            <UGSName>Культура и искусство</UGSName>
-            <UGSCode>070000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Магистр</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>2294d920-90f8-4b33-abf0-000ac948ee38</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Вычислительные машины,комплексы, системы и сети</ProgrammName>
-            <ProgrammCode>220100</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>265bf060-1e71-410b-9eca-ba101ec44354</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Конструирование и технология электронно-вычислительных средств</ProgrammName>
-            <ProgrammCode>220500</ProgrammCode>
-            <OKSOCode>65</OKSOCode>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Инженер</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>2b24b8e9-f44d-4c81-8bb9-f225993b5944</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Материалы и компоненты твердотельной электроники</ProgrammName>
-            <ProgrammCode>200100</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Приборостроение и оптотехника</UGSName>
-            <UGSCode>200000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>2fb90132-1372-491f-ac01-b2e2642eea70</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Радиотехника</ProgrammName>
-            <ProgrammCode>552500</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Радиотехника</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>45db3cac-7fb5-4422-8092-f60af25ec680</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Программное обеспечение вычислительной техники и автоматизированных систем</ProgrammName>
-            <ProgrammCode>220400</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>5514715d-b253-4283-975e-aed5bd906b87</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Материаловедение и технология новых материалов</ProgrammName>
-            <ProgrammCode>551600</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>579f2f40-af5f-48b5-91e3-56acf821a1c1</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Электронное машиностроение</ProgrammName>
-            <ProgrammCode>200500</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Приборостроение и оптотехника</UGSName>
-            <UGSCode>200000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>6616db93-a37b-4afd-a9f2-a73ca8d41b0a</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Автоматизация и управление</ProgrammName>
-            <ProgrammCode>550200</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Автоматизация и управление</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>689f57ef-1ee8-4180-92d9-4b59bb4b0fc3</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - специалитет</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Менеджмент</ProgrammName>
-            <ProgrammCode>061100</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>7bd43af5-4def-457b-9306-f5370bde799e</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Информатика и вычислительная техника</ProgrammName>
-            <ProgrammCode>552800</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Информатика и вычислительная техника</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>7ec83fb5-d6b8-4861-8bad-40a7be6dcd9a</Id>
-            <TypeName>-</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </ProgrammName>
-            <ProgrammCode/>
-            <OKSOCode/>
-            <UGSName>Без деления на угс/отрасли</UGSName>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>82192421-a28c-4305-9ab9-8291da8d0d58</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Микроэлектроника и полупроводниковые приборы</ProgrammName>
-            <ProgrammCode>200200</ProgrammCode>
-            <OKSOCode>68</OKSOCode>
-            <UGSName>Приборостроение и оптотехника</UGSName>
-            <UGSCode>200000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Магистр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>87b12435-ae7f-4b09-8edf-03da2f887312</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>High</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Организация и технология защиты информации</ProgrammName>
-            <ProgrammCode>220600</ProgrammCode>
-            <OKSOCode>68</OKSOCode>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Магистр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>92cad611-48e1-4a47-8f31-8b3e1595419e</Id>
-            <TypeName>среднее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Среднее профессиональное образование</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Medium</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Системы автоматизированного проектирования</ProgrammName>
-            <ProgrammCode>220300</ProgrammCode>
-            <OKSOCode/>
-            <UGSName>Автоматика и управление</UGSName>
-            <UGSCode>220000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>96ae636b-5d5c-445b-87ba-15710962914b</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Технологические машины и оборудование</ProgrammName>
-            <ProgrammCode>551800</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>a61945dc-67f5-4d7e-81c9-311b0658aa45</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Менеджмент</ProgrammName>
-            <ProgrammCode>521500</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>ab84210f-8d5b-4028-bf93-5d3cea0edfe8</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Управление и информатика в технических системах</ProgrammName>
-            <ProgrammCode>210100</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Электронная техника, радиотехника и связь</UGSName>
-            <UGSCode>210000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>adc4336f-bff1-488d-ad9f-6c468f020a2a</Id>
-            <TypeName>ВО - специалитет</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - специалитет</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Радиоэлектронные системы</ProgrammName>
-            <ProgrammCode>201600</ProgrammCode>
-            <OKSOCode/>
-            <UGSName>Приборостроение и оптотехника</UGSName>
-            <UGSCode>200000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification/>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>b4d9e6d9-7abd-4159-bd28-953afd9bc157</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Электроника и микроэлектроника</ProgrammName>
-            <ProgrammCode>550700</ProgrammCode>
-            <OKSOCode/>
-            <UGSName/>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Электроника и микроэлектроника</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>d3437e0c-7a23-4588-80ed-a889f3cb153d</Id>
-            <TypeName>-</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Не определен</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>Unknown</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </ProgrammName>
-            <ProgrammCode/>
-            <OKSOCode/>
-            <UGSName>Без деления на угс/отрасли</UGSName>
-            <UGSCode/>
-            <EduNormativePeriod/>
-            <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
-                профессиональным образовательным программам
-            </Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>e26fd16d-0e22-4387-b4cb-39e716770ba7</Id>
-            <TypeName>высшее профессиональное образование</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Биотехнические и медицинские аппараты и системы</ProgrammName>
-            <ProgrammCode>190500</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Транспортные средства</UGSName>
-            <UGSCode>190000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр техники и технологии</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-        <EducationalProgram>
-            <Id>e3791cfc-4cb6-482b-8acb-cbaf2e74e303</Id>
-            <TypeName>ВО - бакалавриат</TypeName>
-            <TypeCode/>
-            <KindName/>
-            <KindCode/>
-            <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
-            <EdulevelShortName/>
-            <EduLevelCode>undefined</EduLevelCode>
-            <EduSubLevelName/>
-            <EduSubLevelCode/>
-            <ProgrammName>Прикладная математика</ProgrammName>
-            <ProgrammCode>010200</ProgrammCode>
-            <OKSOCode>62</OKSOCode>
-            <UGSName>Физико-математические науки</UGSName>
-            <UGSCode>010000</UGSCode>
-            <EduNormativePeriod/>
-            <Qualification>Бакалавр</Qualification>
-            <IsAccredited>0</IsAccredited>
-            <IsCanceled>0</IsCanceled>
-            <IsSuspended>0</IsSuspended>
-        </EducationalProgram>
-    </EducationalPrograms>
-</Supplement>
-</Supplements><Decisions/></Certificate>
+    <Supplements>
+        <Supplement>
+            <Id>338c755c-69aa-453a-9a56-2ce36ef7903a</Id>
+            <StatusName>Недействующее</StatusName>
+            <StatusCode/>
+            <Number>4</Number>
+            <SerialNumber/>
+            <FormNumber/>
+            <IssueDate>2004-01-20 21:19:18</IssueDate>
+            <IsForBranch>0</IsForBranch>
+            <Note/>
+            <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования
+                «Национальный
+                исследовательский университет «Московский институт электронной техники»
+            </EduOrgFullName>
+            <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
+            <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
+            <EduOrgKPP>773501001</EduOrgKPP>
+            <ActualEducationOrganization>
+                <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
+                <FullName>федеральное государственное автономное образовательное учреждение высшего образования
+                    «Национальный
+                    исследовательский университет «Московский институт электронной техники»
+                </FullName>
+                <ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
+                <HeadEduOrgId/>
+                <IsBranch>0</IsBranch>
+                <PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
+                <Phone>(499) 710-22-33</Phone>
+                <Fax>(499) 710-22-33</Fax>
+                <Email>umk@miee.ru</Email>
+                <WebSite/>
+                <OGRN>1027739615584</OGRN>
+                <INN>7735041133</INN>
+                <KPP>773501001</KPP>
+                <HeadPost>Ректор</HeadPost>
+                <HeadName>Беспалов Владимир Александрович</HeadName>
+                <FormName>федеральное государственное автономное образовательное учреждение</FormName>
+                <FormCode/>
+                <KindName>Университет</KindName>
+                <KindCode/>
+                <TypeName>Образовательная организация высшего образования</TypeName>
+                <TypeCode/>
+                <RegionName>г. Москва</RegionName>
+                <RegionCode>77</RegionCode>
+                <FederalDistrictCode>CentralFD</FederalDistrictCode>
+                <FederalDistrictShortName>ЦФО</FederalDistrictShortName>
+                <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
+            </ActualEducationOrganization>
+            <IndividualEntrepreneur/>
+            <EducationalPrograms>
+                <EducationalProgram>
+                    <Id>103e4c86-70ba-4e29-a588-afcdc6f4df72</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Телекоммуникации</ProgrammName>
+                    <ProgrammCode>550400</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>63f6468b-bd85-4214-8e43-d7c1e91e9049</Id>
+                    <TypeName>-</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Маркетинг</ProgrammName>
+                    <ProgrammCode>061500</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName>Здравоохранение</UGSName>
+                    <UGSCode>060000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>b1a79dfa-7192-4561-b5d2-cbb34b871dda</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Инженерная защита окружающей среды</ProgrammName>
+                    <ProgrammCode>330200</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>ef4818b1-e19e-4da0-a2fb-450ca5ab15df</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - специалитет</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Управление качеством</ProgrammName>
+                    <ProgrammCode>340100</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+            </EducationalPrograms>
+        </Supplement>
+        <Supplement>
+            <Id>480927db-cb45-4e9c-bf70-6c6502b4e78c</Id>
+            <StatusName>Недействующее</StatusName>
+            <StatusCode/>
+            <Number>3</Number>
+            <SerialNumber/>
+            <FormNumber/>
+            <IssueDate>2004-01-20 21:19:18</IssueDate>
+            <IsForBranch>0</IsForBranch>
+            <Note/>
+            <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования
+                «Национальный
+                исследовательский университет «Московский институт электронной техники»
+            </EduOrgFullName>
+            <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
+            <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
+            <EduOrgKPP>773501001</EduOrgKPP>
+            <ActualEducationOrganization>
+                <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
+                <FullName>федеральное государственное автономное образовательное учреждение высшего образования
+                    «Национальный
+                    исследовательский университет «Московский институт электронной техники»
+                </FullName>
+                <ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
+                <HeadEduOrgId/>
+                <IsBranch>0</IsBranch>
+                <PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
+                <Phone>(499) 710-22-33</Phone>
+                <Fax>(499) 710-22-33</Fax>
+                <Email>umk@miee.ru</Email>
+                <WebSite/>
+                <OGRN>1027739615584</OGRN>
+                <INN>7735041133</INN>
+                <KPP>773501001</KPP>
+                <HeadPost>Ректор</HeadPost>
+                <HeadName>Беспалов Владимир Александрович</HeadName>
+                <FormName>федеральное государственное автономное образовательное учреждение</FormName>
+                <FormCode/>
+                <KindName>Университет</KindName>
+                <KindCode/>
+                <TypeName>Образовательная организация высшего образования</TypeName>
+                <TypeCode/>
+                <RegionName>г. Москва</RegionName>
+                <RegionCode>77</RegionCode>
+                <FederalDistrictCode>CentralFD</FederalDistrictCode>
+                <FederalDistrictShortName>ЦФО</FederalDistrictShortName>
+                <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
+            </ActualEducationOrganization>
+            <IndividualEntrepreneur/>
+            <EducationalPrograms>
+                <EducationalProgram>
+                    <Id>096bd053-80b3-4f8e-8cb8-044e3c411a81</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - специалитет</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Управление качеством</ProgrammName>
+                    <ProgrammCode>340100</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>96bd7759-6245-422d-bef7-3d30032c7e03</Id>
+                    <TypeName>-</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Маркетинг</ProgrammName>
+                    <ProgrammCode>061500</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName>Здравоохранение</UGSName>
+                    <UGSCode>060000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>a884d041-5bdd-446a-af0e-9ff2bcd2b498</Id>
+                    <TypeName>среднее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Микроэлектроника и полупроводниковые приборы</ProgrammName>
+                    <ProgrammCode>2001</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>bdb7318b-60ad-45cc-8b51-50a5c2b658cb</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Телекоммуникации</ProgrammName>
+                    <ProgrammCode>550400</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>d1560ee6-7976-4c10-8ef9-922a33c9eb19</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Инженерная защита окружающей среды (по отраслям)</ProgrammName>
+                    <ProgrammCode>330200</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+            </EducationalPrograms>
+        </Supplement>
+        <Supplement>
+            <Id>6762aa8c-20fb-468b-99ba-94f39c19b856</Id>
+            <StatusName>Недействующее</StatusName>
+            <StatusCode/>
+            <Number>2</Number>
+            <SerialNumber/>
+            <FormNumber/>
+            <IssueDate>2004-01-20 21:19:18</IssueDate>
+            <IsForBranch>0</IsForBranch>
+            <Note/>
+            <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования
+                «Национальный
+                исследовательский университет «Московский институт электронной техники»
+            </EduOrgFullName>
+            <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
+            <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
+            <EduOrgKPP>773501001</EduOrgKPP>
+            <ActualEducationOrganization>
+                <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
+                <FullName>федеральное государственное автономное образовательное учреждение высшего образования
+                    «Национальный
+                    исследовательский университет «Московский институт электронной техники»
+                </FullName>
+                <ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
+                <HeadEduOrgId/>
+                <IsBranch>0</IsBranch>
+                <PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
+                <Phone>(499) 710-22-33</Phone>
+                <Fax>(499) 710-22-33</Fax>
+                <Email>umk@miee.ru</Email>
+                <WebSite/>
+                <OGRN>1027739615584</OGRN>
+                <INN>7735041133</INN>
+                <KPP>773501001</KPP>
+                <HeadPost>Ректор</HeadPost>
+                <HeadName>Беспалов Владимир Александрович</HeadName>
+                <FormName>федеральное государственное автономное образовательное учреждение</FormName>
+                <FormCode/>
+                <KindName>Университет</KindName>
+                <KindCode/>
+                <TypeName>Образовательная организация высшего образования</TypeName>
+                <TypeCode/>
+                <RegionName>г. Москва</RegionName>
+                <RegionCode>77</RegionCode>
+                <FederalDistrictCode>CentralFD</FederalDistrictCode>
+                <FederalDistrictShortName>ЦФО</FederalDistrictShortName>
+                <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
+            </ActualEducationOrganization>
+            <IndividualEntrepreneur/>
+            <EducationalPrograms>
+                <EducationalProgram>
+                    <Id>0589998d-5a1b-4995-9241-a8014ec3e6a0</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Электроника и микроэлектроника</ProgrammName>
+                    <ProgrammCode>550700</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Электроника и микроэлектроника</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>09fafb60-0eae-42d3-b735-c42581e0570a</Id>
+                    <TypeName>среднее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Среднее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Medium</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Системы автоматизированного проектирования</ProgrammName>
+                    <ProgrammCode>220300</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>147babbc-5665-4696-a922-541116b6f978</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Управление и информатика в технических системах</ProgrammName>
+                    <ProgrammCode>210100</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Электронная техника, радиотехника и связь</UGSName>
+                    <UGSCode>210000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>309e4d58-91ae-421e-89b0-0bd2ad73e810</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Программное обеспечение вычислительной техники и автоматизированных систем
+                    </ProgrammName>
+                    <ProgrammCode>220400</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>5000b129-7b7e-4cd1-9b19-0a3ace462943</Id>
+                    <TypeName>-</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </ProgrammName>
+                    <ProgrammCode/>
+                    <OKSOCode/>
+                    <UGSName>Без деления на угс/отрасли</UGSName>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>57c588b1-8b5d-49d8-a576-cb04a953031b</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Материаловедение и технология новых материалов</ProgrammName>
+                    <ProgrammCode>551600</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>5838cf32-2a07-459f-8cac-2385d028fe93</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Радиотехника</ProgrammName>
+                    <ProgrammCode>552500</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Радиотехника</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>5938a861-23ce-46a9-b90b-7b27713c15dc</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Проектирование и технология электронно-вычислительных средств</ProgrammName>
+                    <ProgrammCode>220500</ProgrammCode>
+                    <OKSOCode>65</OKSOCode>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Инженер</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>5c8603d4-434d-45cc-81fa-62079df505d7</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Микроэлектроника и полупроводниковые приборы</ProgrammName>
+                    <ProgrammCode>014100</ProgrammCode>
+                    <OKSOCode>65</OKSOCode>
+                    <UGSName>Физико-математические науки</UGSName>
+                    <UGSCode>010000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Физик-микроэлектронщик</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>5da6fa03-384c-4684-a286-f932119a7ec9</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Вычислительные машины, комплексы, системы и сети</ProgrammName>
+                    <ProgrammCode>220100</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>6f0312d3-1b35-48d6-81bc-79b51edb5288</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Информатика и вычислительная техника</ProgrammName>
+                    <ProgrammCode>552800</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Информатика и вычислительная техника</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>78d63921-a7f0-47bc-92f4-377ea260eb19</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Автоматизация и управление</ProgrammName>
+                    <ProgrammCode>550200</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Автоматизация и управление</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>7f01ef23-d241-4da9-a1c5-bd62004bdc88</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Комплексная защита объектов информатизации</ProgrammName>
+                    <ProgrammCode>075400</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName>Культура и искусство</UGSName>
+                    <UGSCode>070000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>8cbd6cfb-39b9-4af8-bf64-1a3305c5c501</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Технологические машины и оборудование</ProgrammName>
+                    <ProgrammCode>551800</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>93b6fddd-c025-4db1-b324-3da0d76a26a7</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Микроэлектроника и твердотельная электроника</ProgrammName>
+                    <ProgrammCode>200100</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Приборостроение и оптотехника</UGSName>
+                    <UGSCode>200000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>950cfeff-6802-49e5-855d-827354fc51cf</Id>
+                    <TypeName>-</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </ProgrammName>
+                    <ProgrammCode/>
+                    <OKSOCode/>
+                    <UGSName>Без деления на угс/отрасли</UGSName>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>9e6a7ce3-96b2-4a65-87bb-19a2bc425762</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Электронное машиностроение</ProgrammName>
+                    <ProgrammCode>200500</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Приборостроение и оптотехника</UGSName>
+                    <UGSCode>200000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>a2218b7e-c5be-49b8-86e0-f5f95302c069</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - специалитет</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Радиоэлектронные системы</ProgrammName>
+                    <ProgrammCode>201600</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName>Приборостроение и оптотехника</UGSName>
+                    <UGSCode>200000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>a4861042-2aeb-4a04-8806-e44ab8029b54</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Прикладная математика</ProgrammName>
+                    <ProgrammCode>073000</ProgrammCode>
+                    <OKSOCode>68</OKSOCode>
+                    <UGSName>Культура и искусство</UGSName>
+                    <UGSCode>070000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Магистр</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>a5dd0dce-d907-4041-833e-6ba74135299e</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Менеджмент</ProgrammName>
+                    <ProgrammCode>521500</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>cbfc7698-e6b0-4f14-a0cd-d6d790142c39</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Биотехнические и медицинские аппараты и системы</ProgrammName>
+                    <ProgrammCode>190500</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Транспортные средства</UGSName>
+                    <UGSCode>190000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>dd93f26a-9d80-4ce7-ae64-48c1e8c9dba3</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - специалитет</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Менеджмент организации</ProgrammName>
+                    <ProgrammCode>061100</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>f85984a2-ad15-4086-9575-886d8f597dfb</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - специалитет</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Прикладная информатика (по областям применения)</ProgrammName>
+                    <ProgrammCode>351400</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+            </EducationalPrograms>
+        </Supplement>
+        <Supplement>
+            <Id>c153204c-bbd6-42b7-80c7-516f47a21d2d</Id>
+            <StatusName>Недействующее</StatusName>
+            <StatusCode/>
+            <Number>1</Number>
+            <SerialNumber/>
+            <FormNumber/>
+            <IssueDate>2004-01-20 21:19:18</IssueDate>
+            <IsForBranch>0</IsForBranch>
+            <Note/>
+            <EduOrgFullName>федеральное государственное автономное образовательное учреждение высшего образования
+                «Национальный
+                исследовательский университет «Московский институт электронной техники»
+            </EduOrgFullName>
+            <EduOrgShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</EduOrgShortName>
+            <EduOrgAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</EduOrgAddress>
+            <EduOrgKPP>773501001</EduOrgKPP>
+            <ActualEducationOrganization>
+                <Id>87cde96d-dfed-7e68-14d1-348fd8b4f87c</Id>
+                <FullName>федеральное государственное автономное образовательное учреждение высшего образования
+                    «Национальный
+                    исследовательский университет «Московский институт электронной техники»
+                </FullName>
+                <ShortName>Национальный исследовательский университет «МИЭТ»; НИУ МИЭТ; МИЭТ</ShortName>
+                <HeadEduOrgId/>
+                <IsBranch>0</IsBranch>
+                <PostAddress>124498, г. Москва, г. Зеленоград, площадь Шокина, д. 1</PostAddress>
+                <Phone>(499) 710-22-33</Phone>
+                <Fax>(499) 710-22-33</Fax>
+                <Email>umk@miee.ru</Email>
+                <WebSite/>
+                <OGRN>1027739615584</OGRN>
+                <INN>7735041133</INN>
+                <KPP>773501001</KPP>
+                <HeadPost>Ректор</HeadPost>
+                <HeadName>Беспалов Владимир Александрович</HeadName>
+                <FormName>федеральное государственное автономное образовательное учреждение</FormName>
+                <FormCode/>
+                <KindName>Университет</KindName>
+                <KindCode/>
+                <TypeName>Образовательная организация высшего образования</TypeName>
+                <TypeCode/>
+                <RegionName>г. Москва</RegionName>
+                <RegionCode>77</RegionCode>
+                <FederalDistrictCode>CentralFD</FederalDistrictCode>
+                <FederalDistrictShortName>ЦФО</FederalDistrictShortName>
+                <FederalDistrictName>Центральный федеральный округ</FederalDistrictName>
+            </ActualEducationOrganization>
+            <IndividualEntrepreneur/>
+            <EducationalPrograms>
+                <EducationalProgram>
+                    <Id>1f3ab120-df0b-4baf-87c0-c8aeafc6e8cd</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - магистратура</EduLevelName>
+                    <EdulevelShortName>Магистратура</EdulevelShortName>
+                    <EduLevelCode></EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Информационные системы (по областям применения)</ProgrammName>
+                    <ProgrammCode>071900</ProgrammCode>
+                    <OKSOCode>68</OKSOCode>
+                    <UGSName>Культура и искусство</UGSName>
+                    <UGSCode>070000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Магистр</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>2294d920-90f8-4b33-abf0-000ac948ee38</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Вычислительные машины,комплексы, системы и сети</ProgrammName>
+                    <ProgrammCode>220100</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>265bf060-1e71-410b-9eca-ba101ec44354</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Конструирование и технология электронно-вычислительных средств</ProgrammName>
+                    <ProgrammCode>220500</ProgrammCode>
+                    <OKSOCode>65</OKSOCode>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Инженер</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>2b24b8e9-f44d-4c81-8bb9-f225993b5944</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Материалы и компоненты твердотельной электроники</ProgrammName>
+                    <ProgrammCode>200100</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Приборостроение и оптотехника</UGSName>
+                    <UGSCode>200000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>2fb90132-1372-491f-ac01-b2e2642eea70</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Радиотехника</ProgrammName>
+                    <ProgrammCode>552500</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Радиотехника</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>45db3cac-7fb5-4422-8092-f60af25ec680</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Программное обеспечение вычислительной техники и автоматизированных систем
+                    </ProgrammName>
+                    <ProgrammCode>220400</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>5514715d-b253-4283-975e-aed5bd906b87</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Материаловедение и технология новых материалов</ProgrammName>
+                    <ProgrammCode>551600</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>579f2f40-af5f-48b5-91e3-56acf821a1c1</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Электронное машиностроение</ProgrammName>
+                    <ProgrammCode>200500</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Приборостроение и оптотехника</UGSName>
+                    <UGSCode>200000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>6616db93-a37b-4afd-a9f2-a73ca8d41b0a</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Автоматизация и управление</ProgrammName>
+                    <ProgrammCode>550200</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Автоматизация и управление</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>689f57ef-1ee8-4180-92d9-4b59bb4b0fc3</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - специалитет</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Менеджмент</ProgrammName>
+                    <ProgrammCode>061100</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>7bd43af5-4def-457b-9306-f5370bde799e</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Информатика и вычислительная техника</ProgrammName>
+                    <ProgrammCode>552800</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Информатика и вычислительная техника</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>7ec83fb5-d6b8-4861-8bad-40a7be6dcd9a</Id>
+                    <TypeName>-</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </ProgrammName>
+                    <ProgrammCode/>
+                    <OKSOCode/>
+                    <UGSName>Без деления на угс/отрасли</UGSName>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>82192421-a28c-4305-9ab9-8291da8d0d58</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Микроэлектроника и полупроводниковые приборы</ProgrammName>
+                    <ProgrammCode>200200</ProgrammCode>
+                    <OKSOCode>68</OKSOCode>
+                    <UGSName>Приборостроение и оптотехника</UGSName>
+                    <UGSCode>200000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Магистр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>87b12435-ae7f-4b09-8edf-03da2f887312</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>High</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Организация и технология защиты информации</ProgrammName>
+                    <ProgrammCode>220600</ProgrammCode>
+                    <OKSOCode>68</OKSOCode>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Магистр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>92cad611-48e1-4a47-8f31-8b3e1595419e</Id>
+                    <TypeName>среднее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Среднее профессиональное образование</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Medium</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Системы автоматизированного проектирования</ProgrammName>
+                    <ProgrammCode>220300</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName>Автоматика и управление</UGSName>
+                    <UGSCode>220000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>96ae636b-5d5c-445b-87ba-15710962914b</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Технологические машины и оборудование</ProgrammName>
+                    <ProgrammCode>551800</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>a61945dc-67f5-4d7e-81c9-311b0658aa45</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Менеджмент</ProgrammName>
+                    <ProgrammCode>521500</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>ab84210f-8d5b-4028-bf93-5d3cea0edfe8</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Управление и информатика в технических системах</ProgrammName>
+                    <ProgrammCode>210100</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Электронная техника, радиотехника и связь</UGSName>
+                    <UGSCode>210000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>adc4336f-bff1-488d-ad9f-6c468f020a2a</Id>
+                    <TypeName>ВО - специалитет</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - специалитет</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Радиоэлектронные системы</ProgrammName>
+                    <ProgrammCode>201600</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName>Приборостроение и оптотехника</UGSName>
+                    <UGSCode>200000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification/>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>b4d9e6d9-7abd-4159-bd28-953afd9bc157</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Электроника и микроэлектроника</ProgrammName>
+                    <ProgrammCode>550700</ProgrammCode>
+                    <OKSOCode/>
+                    <UGSName/>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Электроника и микроэлектроника</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>d3437e0c-7a23-4588-80ed-a889f3cb153d</Id>
+                    <TypeName>-</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Не определен</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>Unknown</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </ProgrammName>
+                    <ProgrammCode/>
+                    <OKSOCode/>
+                    <UGSName>Без деления на угс/отрасли</UGSName>
+                    <UGSCode/>
+                    <EduNormativePeriod/>
+                    <Qualification>Повышение квалификации и профессиональная переподготовка по аккредитованным основным
+                        профессиональным образовательным программам
+                    </Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>e26fd16d-0e22-4387-b4cb-39e716770ba7</Id>
+                    <TypeName>высшее профессиональное образование</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Биотехнические и медицинские аппараты и системы</ProgrammName>
+                    <ProgrammCode>190500</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Транспортные средства</UGSName>
+                    <UGSCode>190000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр техники и технологии</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+                <EducationalProgram>
+                    <Id>e3791cfc-4cb6-482b-8acb-cbaf2e74e303</Id>
+                    <TypeName>ВО - бакалавриат</TypeName>
+                    <TypeCode/>
+                    <KindName/>
+                    <KindCode/>
+                    <EduLevelName>Высшее образование - бакалавриат</EduLevelName>
+                    <EdulevelShortName/>
+                    <EduLevelCode>undefined</EduLevelCode>
+                    <EduSubLevelName/>
+                    <EduSubLevelCode/>
+                    <ProgrammName>Прикладная математика</ProgrammName>
+                    <ProgrammCode>010200</ProgrammCode>
+                    <OKSOCode>62</OKSOCode>
+                    <UGSName>Физико-математические науки</UGSName>
+                    <UGSCode>010000</UGSCode>
+                    <EduNormativePeriod/>
+                    <Qualification>Бакалавр</Qualification>
+                    <IsAccredited>0</IsAccredited>
+                    <IsCanceled>0</IsCanceled>
+                    <IsSuspended>0</IsSuspended>
+                </EducationalProgram>
+            </EducationalPrograms>
+        </Supplement>
+    </Supplements>
+    <Decisions/>
+</Certificate>
