@@ -7,3 +7,4 @@ class University(models.Model):
     inn = models.CharField(max_length=12)
     kpp = models.CharField(max_length=9)
     post_address = models.CharField(max_length=255)
+
