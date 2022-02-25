@@ -16,12 +16,16 @@ def build_url(address: str) -> str:
 
 
 def decode_coordinates(university):
+    print(university.name)
     if (address := university.post_address) is not None:
         url = build_url(address)
     else:
+        print("No address is specified. Using its name")
+        url = build_url(university.name)
+    if len(university.longitude) or len(university.latitude):
+        print(f"Already specified for {university.name}: {university.latitude} {university.longitude}")
         return
-    if university.longitude is not None or university.latitude is not None:
-        return
+    print("University does not have coordinates")
     print(f"Attempt to get: {url}")
     response = requests.get(url)
     if response.status_code == 200:
@@ -40,8 +44,8 @@ def decode_coordinates(university):
 def main():
     django.setup()
     from main.models import University
-
-    for university in University.objects.all():
+    universities = University.objects.exclude(longitude__startswith='3').all()
+    for university in universities:
         decode_coordinates(university)
 
 
