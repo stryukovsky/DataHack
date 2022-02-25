@@ -92,6 +92,14 @@
         objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');
         myMap.geoObjects.add(objectManager);
 
+        const formatMoney = (money) => {
+            return parseFloat(money).toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1 ").replace('.', ',')+" руб.";
+        }
+
+        const toUpperFirstLetter = (name) =>{
+            return name.charAt(0).toUpperCase() + name.slice(1);
+        }
+
         let response = await fetch("http://127.0.0.1:8000/universities/");
         if (response.ok) {
             const universities = await response.json();
@@ -105,7 +113,7 @@
                     },
                     properties: {
                         hintContent: 'univer name',
-                        balloonContent: `<div>${university.name}</div> <div>Сумма: ${university.sum}</div>`
+                        balloonContent: `<div>${toUpperFirstLetter(university.name)}</div> <div>Сумма: ${formatMoney(university.sum)}</div>`
                     }
                 });
             }
