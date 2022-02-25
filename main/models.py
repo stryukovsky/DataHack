@@ -15,3 +15,5 @@ class University(models.Model):
     post_address = models.CharField(max_length=255, null=True)
     sum = models.IntegerField(default=0)
     status = models.IntegerField(choices=StatusChoices.choices, default=StatusChoices.UNEXPLORED)
+    longitude = models.CharField(max_length=255, default="")
+    latitude = models.CharField(max_length=255, default="")
