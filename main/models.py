@@ -1,3 +1,8 @@
 from django.db import models
 
-# Create your models here.
+
+class University(models.Model):
+    short_name = models.CharField(max_length=255)
+    orgn = models.CharField(max_length=13)
+    inn = models.CharField(max_length=12)
+    kpp = models.CharField(max_length=9)
