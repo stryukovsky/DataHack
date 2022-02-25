@@ -14,7 +14,14 @@ def pie_chart(request: HttpRequest) -> HttpResponse:
 
 
 def universities_list(request: HttpRequest) -> HttpResponse:
-    return render(request, "UniversitiesList.html", {"universities": University.objects.filter()})
+    page = int(request.GET.get('page', 1))
+    if page <= 0:
+        page = 1
+    objs = University.objects.filter()
+    start = (page-1)*7
+    end = page*7 if page*7 < len(objs) else len(objs)
+    universities = objs.order_by("name")[start:end]
+    return render(request, "UniversitiesList.html", {"universities": universities})
 
 
 class UniversityViewSet(ModelViewSet):
