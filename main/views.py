@@ -5,11 +5,8 @@ from main.models import University
 from main.serializers import UniversitySerializer
 
 
-# Create your views here.
-
-
 def index(request: HttpRequest) -> HttpResponse:
-    return render(request, "test.html")
+    return render(request, "Index.html")
 
 
 class UniversityViewSet(ModelViewSet):
