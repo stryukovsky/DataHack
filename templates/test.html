@@ -1,0 +1,43 @@
+<html>
+<head>
+
+</head>
+<body>
+<div id="YMapsID" style="width: 450px; height: 350px;"></div>
+</body>
+<script src="https://api-maps.yandex.ru/2.1?apikey=INSERT_API_KEY_HERE&lang=ru_RU"
+        type="text/javascript"></script>
+<script>
+    ymaps.ready(function () {
+        const myMap = new ymaps.Map("YMapsID", {
+            center: [55.76, 37.64],
+            zoom: 10
+        });
+
+        const myGeoObject = new ymaps.GeoObject({
+            // Описание геометрии.
+            geometry: {
+                type: "Point",
+                coordinates: [55.8, 37.8]
+            },
+            // Свойства.
+            properties: {
+                // Контент метки.
+                iconContent: 'Я тащусь',
+                hintContent: 'Ну давай уже тащи'
+            }
+        }, {
+            // Опции.
+            // Иконка метки будет растягиваться под размер ее содержимого.
+            preset: 'islands#blackStretchyIcon',
+            // Метку можно перемещать.
+            draggable: true
+        })
+
+        myMap.geoObjects
+            .add(myGeoObject)
+    });
+
+
+</script>
+</html>
