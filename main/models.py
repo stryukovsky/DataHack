@@ -17,3 +17,10 @@ class University(models.Model):
     status = models.IntegerField(choices=StatusChoices.choices, default=StatusChoices.UNEXPLORED)
     longitude = models.CharField(max_length=255, default="")
     latitude = models.CharField(max_length=255, default="")
+
+
+class Purchase(models.Model):
+    purchase_type = models.CharField(max_length=1024, null=False, unique=True)
+    university = models.ForeignKey(University, on_delete=models.CASCADE, related_name='purchases')
+    amount = models.CharField(max_length=1024, null=False)
+    date = models.DateField()
