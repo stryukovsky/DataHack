@@ -22,14 +22,13 @@
         objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');
         myMap.geoObjects.add(objectManager);
 
-        let counter = 0;
         let response = await fetch("http://127.0.0.1:8000/universities/");
         if (response.ok) {
             const universities = await response.json();
             for (let university of universities) {
                 objectManager.add({
                     type: 'Feature',
-                    id: counter++,
+                    id: Number(university.id),
                     geometry: {
                         type: 'Point',
                         coordinates: [Number(university.latitude), Number(university.longitude)]
