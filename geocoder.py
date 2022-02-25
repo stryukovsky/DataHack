@@ -20,6 +20,8 @@ def decode_coordinates(university):
         url = build_url(address)
     else:
         return
+    if university.longitude is not None or university.latitude is not None:
+        return
     print(f"Attempt to get: {url}")
     response = requests.get(url)
     if response.status_code == 200:
