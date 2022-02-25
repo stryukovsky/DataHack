@@ -10,17 +10,20 @@ def analyze_university(university_model, university: ET) -> None:
     if university.tag != "Certificate":
         return
     name = ""
+    short_name = ""
     ogrn = ""
     inn = ""
     kpp = ""
     address = ""
     for parameter in university:
         if parameter.tag == "RegionName" and parameter.text != "г. Москва":
-            continue
+            return
         if parameter.tag == "TypeCode" and parameter.text != "Permanent":
-            continue
-        if parameter.tag == "EduOrgShortName":
+            return
+        if parameter.tag == "EduOrgFullName":
             name = parameter.text
+        if parameter.tag == "EduOrgShortName":
+            short_name = parameter.text
         if parameter.tag == "EduOrgINN":
             inn = parameter.text
         if parameter.tag == "EduOrgKPP":
@@ -29,12 +32,15 @@ def analyze_university(university_model, university: ET) -> None:
             ogrn = parameter.text
         if parameter.tag == "PostAddress":
             address = parameter.text
-    university_model.objects.create(short_name=name, ogrn=ogrn, inn=inn, kpp=kpp, post_address=address)
+    if name != "":
+        if university_model.objects.filter(name=name).first() is None:
+            university_model.objects.create(name=name, short_name=short_name, ogrn=ogrn, inn=inn, kpp=kpp,
+                                            post_address=address)
 
 
 def main() -> None:
     django.setup()
-    tree = ET.parse('../data/universities.xml')
+    tree = ET.parse('data/universities.xml')
     root = tree.getroot()
     from main.models import University
     """
