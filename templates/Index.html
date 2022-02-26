@@ -119,7 +119,8 @@
                     },
                     properties: {
                         hintContent: `<i><div>${university.abbreviation}</div><div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div></i>`,
-                        balloonContent: `<div>${toUpperFirstLetter(university.name)}</div> <div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div>`
+                        balloonContent: `<div>${toUpperFirstLetter(university.name)}</div> <div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div><div>Кол-во студентов: ${university.students_count}</div>`,
+                        balloonContentHeader: `${university.abbreviation}`
                     }
                 });
             }
