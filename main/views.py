@@ -49,3 +49,4 @@ class UniversityViewSet(ModelViewSet):
 class PieChartUniversityViewSet(ModelViewSet):
     queryset = University.objects.exclude(longitude__isnull=True).order_by('-sum')
     serializer_class = PieChartUnivesitySerializer
+
