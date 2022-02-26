@@ -71,16 +71,20 @@
                 <thead>
                 <tr>
                     <th scope="col">Вуз</th>
+                    <th scope="col">Полное название</th>
                     <th scope="col">Инн</th>
                     <th scope="col">Адрес</th>
+                    <th scope="col">Сумма заказов за 2021 г.</th>
                 </tr>
                 </thead>
                 <tbody id="universities_table_tbody">
                 {% for university in universities %}
                     <tr>
+                        <td>{{ university.abbreviation }}</td>
                         <td>{{ university.name }}</td>
                         <td>{{ university.inn }}</td>
                         <td>{{ university.post_address }}</td>
+                        <td>{{ university.sum }}</td>
                     </tr>
                 {% endfor %}
                 </tbody>

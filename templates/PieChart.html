@@ -60,7 +60,7 @@
 
         <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
             <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                <h1 class="h2">Расходы вузов (топ 5)</h1>
+                <h1 class="h2">Расходы вузов <br> (топ 5)</h1>
                 <p>Диаграмма показывает контракты за 2021 год определенного вуза. Итоговая сумма составила: {{ total }}
                     руб.</p>
             </div>
@@ -101,7 +101,7 @@
         })
         .then((responseData) => {
             for (let i = 0; i < Math.min(5, responseData.length); i++) {
-                labels.push(responseData[i].short_name);
+                labels.push(responseData[i].abbreviation);
                 data.push(responseData[i].sum);
             }
 

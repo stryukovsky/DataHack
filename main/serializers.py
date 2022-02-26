@@ -12,4 +12,4 @@ class UniversitySerializer(ModelSerializer):
 class PieChartUnivesitySerializer(ModelSerializer):
     class Meta:
         model = University
-        fields = ['short_name', 'sum']
+        fields = ['short_name', 'sum', 'abbreviation']
