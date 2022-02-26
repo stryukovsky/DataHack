@@ -1,5 +1,6 @@
 import math
 
+from django.db.models import Sum
 from django.http import HttpRequest, HttpResponse
 from django.shortcuts import render
 from rest_framework.viewsets import ModelViewSet
@@ -12,7 +13,9 @@ def index(request: HttpRequest) -> HttpResponse:
 
 
 def pie_chart(request: HttpRequest) -> HttpResponse:
-    return render(request, "PieChart.html")
+    return render(request, "PieChart.html", context={
+        "total": University.objects.filter(rating_position__gt=0).aggregate(Sum('sum'))['sum__sum']
+    })
 
 
 def universities_list(request: HttpRequest) -> HttpResponse:
@@ -22,11 +25,11 @@ def universities_list(request: HttpRequest) -> HttpResponse:
 
     objs = University.objects.filter()
 
-    if (page-1)*7 > len(objs):
+    if (page - 1) * 7 > len(objs):
         page = math.ceil(len(objs) / 7)
 
-    start = (page-1)*7
-    end = page*7 if page*7 < len(objs) else len(objs)
+    start = (page - 1) * 7
+    end = page * 7 if page * 7 < len(objs) else len(objs)
     universities = objs.order_by("name")[start:end]
     return render(request, "UniversitiesList.html", {"universities": universities, "current_page": page})
 
