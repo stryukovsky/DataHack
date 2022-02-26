@@ -106,7 +106,7 @@
             return name.charAt(0).toUpperCase() + name.slice(1);
         }
 
-        let response = await fetch("http://127.0.0.1:8000/universities/");
+        let response = await fetch("/universities/");
         if (response.ok) {
             const universities = await response.json();
             for (let university of universities) {

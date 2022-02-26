@@ -95,7 +95,7 @@
 
     {#Chart.defaults.global.defaultFontFamily = "Lato";#}
     {#Chart.defaults.global.defaultFontSize = 18;#}
-    fetch('http://127.0.0.1:8000/pie_chart_universities/')
+    fetch('/pie_chart_universities/')
         .then((response) => {
             return response.json();
         })

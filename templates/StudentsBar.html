@@ -90,12 +90,12 @@
 
     {#Chart.defaults.global.defaultFontFamily = "Lato";#}
     {#Chart.defaults.global.defaultFontSize = 18;#}
-    fetch('http://127.0.0.1:8000/universities/')
+    fetch('/universities/')
         .then((response) => {
             return response.json();
         })
         .then((responseData) => {
-            for (let i = 0; i < Math.min(10, responseData.length); i++) {
+            for (let i = 0; i < Math.min(100, responseData.length); i++) {
                 labels.push(responseData[i].abbreviation);
                 data.push(responseData[i].sum / responseData[i].students_count);
             }

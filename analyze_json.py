@@ -29,7 +29,10 @@ def fill_purchases(University, Purchase, inn, filename):
 def main():
     django.setup()
     from main.models import University, Purchase
-    fill_purchases(University, Purchase, 7729134728, 'data/MGIMO.json')
+    # Purchase.objects.filter(university__inn=7722019652).delete()
+    # University.objects.filter(rating_position=0).update(rating_position=100)
+    fill_purchases(University, Purchase, 7716103391, 'data/stroika.json')
+
 
 
 if __name__ == "__main__":
