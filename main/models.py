@@ -18,6 +18,7 @@ class University(models.Model):
     longitude = models.CharField(max_length=255, default="")
     latitude = models.CharField(max_length=255, default="")
     students_count = models.PositiveBigIntegerField(default=0)
+    rating_position = models.IntegerField(default=0)
 
     def __str__(self):
         return str(self.inn)
