@@ -1,3 +1,5 @@
+import math
+
 from django.http import HttpRequest, HttpResponse
 from django.shortcuts import render
 from rest_framework.viewsets import ModelViewSet
@@ -11,6 +13,22 @@ def index(request: HttpRequest) -> HttpResponse:
 
 def pie_chart(request: HttpRequest) -> HttpResponse:
     return render(request, "PieChart.html")
+
+
+def universities_list(request: HttpRequest) -> HttpResponse:
+    page = int(request.GET.get('page', 1))
+    if page <= 0:
+        page = 1
+
+    objs = University.objects.filter()
+
+    if (page-1)*7 > len(objs):
+        page = math.ceil(len(objs) / 7)
+
+    start = (page-1)*7
+    end = page*7 if page*7 < len(objs) else len(objs)
+    universities = objs.order_by("name")[start:end]
+    return render(request, "UniversitiesList.html", {"universities": universities, "current_page": page})
 
 
 class UniversityViewSet(ModelViewSet):

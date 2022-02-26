@@ -42,7 +42,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="/u_list?page=1">
                             <span data-feather="shopping-cart"></span>
                             Список
                         </a>
@@ -58,7 +58,7 @@
 
             </div>
 
-            <div id="YMapsID"  style="width: 700px; height: 500px;"></div>
+            <div id="YMapsID" style="width: 700px; height: 500px;"></div>
         </main>
     </div>
 </div>
@@ -80,23 +80,15 @@
 <script>
     ymaps.ready(async function () {
         const myMap = new ymaps.Map("YMapsID", {
-                center: [55.76, 37.64],
-                zoom: 10
-            }),
-            objectManager = new ymaps.ObjectManager({
-                clusterize: true,
-                gridSize: 32,
-                clusterDisableClickZoom: true
-            });
-        objectManager.objects.options.set('preset', 'islands#greenDotIcon');
-        objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');
-        myMap.geoObjects.add(objectManager);
+            center: [55.76, 37.64],
+            zoom: 10
+        });
 
         const formatMoney = (money) => {
-            return parseFloat(money).toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1 ").replace('.', ',')+" руб.";
+            return parseFloat(money).toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1 ").replace('.', ',') + " руб.";
         }
 
-        const toUpperFirstLetter = (name) =>{
+        const toUpperFirstLetter = (name) => {
             return name.charAt(0).toUpperCase() + name.slice(1);
         }
 
@@ -104,18 +96,24 @@
         if (response.ok) {
             const universities = await response.json();
             for (let university of universities) {
-                objectManager.add({
-                    type: 'Feature',
-                    id: Number(university.id),
-                    geometry: {
-                        type: 'Point',
-                        coordinates: [Number(university.latitude), Number(university.longitude)]
-                    },
-                    properties: {
+                myMap.geoObjects.add(new ymaps.Placemark([Number(university.latitude), Number(university.longitude)], {
+                        data: [
+                            {weight: 8, color: '#0E4779'},
+                            {weight: 6, color: '#1E98FF'}
+                        ],
                         hintContent: 'univer name',
                         balloonContent: `<div>${toUpperFirstLetter(university.name)}</div> <div>Сумма: ${formatMoney(university.sum)}</div>`
-                    }
-                });
+
+                    }, {
+                        iconLayout: 'default#pieChart',
+                        iconPieChartRadius: 20,
+                        iconPieChartCoreRadius: 10,
+                        iconPieChartCoreFillStyle: '#ffffff',
+                        iconPieChartStrokeStyle: '#ffffff',
+                        iconPieChartStrokeWidth: 1,
+                        iconPieChartCaptionMaxWidth: 200,
+                    })
+                )
             }
         } else {
             alert("Ошибка HTTP: " + response.status);
