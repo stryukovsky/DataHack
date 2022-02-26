@@ -31,17 +31,17 @@ def universities_list(request: HttpRequest) -> HttpResponse:
 
     objs = University.objects.filter()
 
-    if (page - 1) * 7 > len(objs):
-        page = math.ceil(len(objs) / 7)
+    if (page - 1) * 5 > len(objs):
+        page = math.ceil(len(objs) / 5)
 
-    start = (page - 1) * 7
-    end = page * 7 if page * 7 < len(objs) else len(objs)
-    universities = objs.order_by("name")[start:end]
+    start = (page - 1) * 5
+    end = page * 5 if page * 5 < len(objs) else len(objs)
+    universities = objs.order_by("-rating_position")[start:end]
     return render(request, "UniversitiesList.html", {"universities": universities, "current_page": page})
 
 
 class UniversityViewSet(ModelViewSet):
-    queryset = University.objects.exclude(longitude__isnull=True).filter(rating_position__gt=0).order_by('-sum')
+    queryset = University.objects.exclude(longitude__isnull=True).filter(rating_position__gt=0).order_by('rating_position')
     serializer_class = UniversitySerializer
 
 
