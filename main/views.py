@@ -18,6 +18,12 @@ def pie_chart(request: HttpRequest) -> HttpResponse:
     })
 
 
+def studs_bar(request: HttpRequest) -> HttpResponse:
+    return render(request, "StudentsBar.html", context={
+        "total": University.objects.filter(rating_position__gt=0).aggregate(Sum('sum'))['sum__sum']
+    })
+
+
 def universities_list(request: HttpRequest) -> HttpResponse:
     page = int(request.GET.get('page', 1))
     if page <= 0:
@@ -42,3 +48,4 @@ class UniversityViewSet(ModelViewSet):
 class PieChartUniversityViewSet(ModelViewSet):
     queryset = University.objects.exclude(longitude__isnull=True).order_by('-sum')
     serializer_class = PieChartUnivesitySerializer
+
