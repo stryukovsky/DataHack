@@ -4,7 +4,7 @@ from main.models import University, Purchase
 
 
 class UniversityAdmin(admin.ModelAdmin):
-    list_display = ('short_name', 'inn', 'post_address', 'students_count')
+    list_display = ('short_name', 'inn', 'post_address', 'students_count', 'rating_position')
     search_fields = ('name', 'inn')
 
 
