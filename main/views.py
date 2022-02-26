@@ -36,16 +36,16 @@ def universities_list(request: HttpRequest) -> HttpResponse:
 
     start = (page - 1) * 7
     end = page * 7 if page * 7 < len(objs) else len(objs)
-    universities = objs.order_by("name")[start:end]
+    universities = objs.order_by("rating_position")[start:end]
     return render(request, "UniversitiesList.html", {"universities": universities, "current_page": page})
 
 
 class UniversityViewSet(ModelViewSet):
-    queryset = University.objects.exclude(longitude__isnull=True).filter(rating_position__gt=0).order_by('-sum')
+    queryset = University.objects.exclude(longitude__isnull=True).filter(rating_position__lt=99).order_by(
+        'rating_position')
     serializer_class = UniversitySerializer
 
 
 class PieChartUniversityViewSet(ModelViewSet):
     queryset = University.objects.exclude(longitude__isnull=True).order_by('-sum')
     serializer_class = PieChartUnivesitySerializer
-
