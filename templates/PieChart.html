@@ -60,12 +60,16 @@
 
         <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
             <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                <h1 class="h2">Круговая диаграмма</h1>
+                <h1 class="h2">Расходы вузов (топ 5)</h1>
                 <p>Диаграмма показывает контракты за 2021 год определенного вуза. Итоговая сумма составила: {{ total }}
                     руб.</p>
             </div>
 
-            <canvas class="my-4 w-100" id="oilChart" width="900" height="380"></canvas>
+            <div style="text-align: center">
+                <div style="width: 70%; display: inline-block;">
+                    <canvas class="my-4 w-100" id="oilChart" width="200px" height="280px"></canvas>
+                </div>
+            </div>
 
         </main>
     </div>

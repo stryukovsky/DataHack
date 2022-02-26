@@ -64,25 +64,7 @@
 
             </div>
 
-            <div id="YMapsID" style="width: 700px; height: 500px;"></div>
-            <table class="table" id="legend" style="width: 350px;">
-                <thead>
-                <tr>
-                    <th scope="col">Цвет</th>
-                    <th scope="col">Фактор</th>
-                </tr>
-                </thead>
-                <tbody id="legend_tbody">
-                <tr style="width: 10%">
-                    <td style="background-color: #0E4779"></td>
-                    <td>Кукуруза</td>
-                </tr>
-                <tr>
-                    <td style="background-color: #1E98FF"></td>
-                    <td>Колокол</td>
-                </tr>
-                </tbody>
-            </table>
+            <div id="YMapsID" style="width: 100%; height: 80vh;"></div>
         </main>
     </div>
 </div>
@@ -104,15 +86,23 @@
 <script>
     ymaps.ready(async function () {
         const myMap = new ymaps.Map("YMapsID", {
-            center: [55.76, 37.64],
-            zoom: 10
-        });
+                center: [55.76, 37.64],
+                zoom: 10
+            }),
+            objectManager = new ymaps.ObjectManager({
+                clusterize: true,
+                gridSize: 32,
+                clusterDisableClickZoom: true
+            });
+        objectManager.objects.options.set('preset', 'islands#greenDotIcon');
+        objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');
+        myMap.geoObjects.add(objectManager);
 
         const formatMoney = (money) => {
-            return parseFloat(money).toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1 ").replace('.', ',') + " руб.";
+            return parseFloat(money).toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1 ").replace('.', ',')+" руб.";
         }
 
-        const toUpperFirstLetter = (name) => {
+        const toUpperFirstLetter = (name) =>{
             return name.charAt(0).toUpperCase() + name.slice(1);
         }
 
@@ -120,24 +110,18 @@
         if (response.ok) {
             const universities = await response.json();
             for (let university of universities) {
-                myMap.geoObjects.add(new ymaps.Placemark([Number(university.latitude), Number(university.longitude)], {
-                        data: [
-                            {weight: 8, color: '#0E4779'},
-                            {weight: 6, color: '#1E98FF'}
-                        ],
-                        hintContent: `<div><i>Расходы: ${formatMoney(university.sum)}<i></div>`,
-                        balloonContent: `<div>${toUpperFirstLetter(university.name)}</div> <div>Расходы: ${formatMoney(university.sum)}</div>`
-
-                    }, {
-                        iconLayout: 'default#pieChart',
-                        iconPieChartRadius: 20,
-                        iconPieChartCoreRadius: 10,
-                        iconPieChartCoreFillStyle: '#ffffff',
-                        iconPieChartStrokeStyle: '#ffffff',
-                        iconPieChartStrokeWidth: 1,
-                        iconPieChartCaptionMaxWidth: 200,
-                    })
-                )
+                objectManager.add({
+                    type: 'Feature',
+                    id: Number(university.id),
+                    geometry: {
+                        type: 'Point',
+                        coordinates: [Number(university.latitude), Number(university.longitude)]
+                    },
+                    properties: {
+                        hintContent: `<i><div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div></i>`,
+                        balloonContent: `<div>${toUpperFirstLetter(university.name)}</div> <div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div>`
+                    }
+                });
             }
         } else {
             alert("Ошибка HTTP: " + response.status);
