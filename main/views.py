@@ -14,10 +14,10 @@ def pie_chart(request: HttpRequest) -> HttpResponse:
 
 
 class UniversityViewSet(ModelViewSet):
-    queryset = University.objects.exclude(longitude__isnull=True).exclude(sum__lte=1).order_by('-sum')
+    queryset = University.objects.exclude(longitude__isnull=True).order_by('-sum')
     serializer_class = UniversitySerializer
 
 
 class PieChartUniversityViewSet(ModelViewSet):
-    queryset = University.objects.exclude(longitude__isnull=True).exclude(sum__lte=1).order_by('-sum')
+    queryset = University.objects.exclude(longitude__isnull=True).order_by('-sum')
     serializer_class = PieChartUnivesitySerializer
