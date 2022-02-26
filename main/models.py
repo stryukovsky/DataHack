@@ -9,6 +9,7 @@ class University(models.Model):
 
     name = models.CharField(max_length=255, null=False, unique=True)
     short_name = models.CharField(max_length=255, null=True)
+    abbreviation = models.CharField(max_length=255, default="", null=False)
     ogrn = models.CharField(max_length=13, null=True)
     inn = models.CharField(max_length=12, null=True)
     kpp = models.CharField(max_length=9, null=True)
