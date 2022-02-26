@@ -118,7 +118,7 @@
                         coordinates: [Number(university.latitude), Number(university.longitude)]
                     },
                     properties: {
-                        hintContent: `<i><div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div></i>`,
+                        hintContent: `<i><div>${university.abbreviation}</div><div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div></i>`,
                         balloonContent: `<div>${toUpperFirstLetter(university.name)}</div> <div>Расходы: ${formatMoney(university.sum)}</div> <div>Расходы на студента: ${formatMoney(university.sum / university.students_count)}\/студ.</div>`
                     }
                 });
