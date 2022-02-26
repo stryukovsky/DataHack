@@ -29,6 +29,9 @@ def universities_list(request: HttpRequest) -> HttpResponse:
     if page <= 0:
         page = 1
 
+    if page > 5:
+        page = 5
+
     objs = University.objects.filter()
 
     if (page - 1) * 5 > len(objs):
