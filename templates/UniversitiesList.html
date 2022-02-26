@@ -94,6 +94,9 @@
                 const go_next = () => {
                     const urlParams = new URLSearchParams(window.location.search);
                     let page = Number(urlParams.get("page")) + 1;
+                    if (page > 5) {
+                        page = 5;
+                    }
                     window.location.replace(`/u_list?page=${page}`);
                 }
 
