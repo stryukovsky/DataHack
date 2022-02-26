@@ -35,7 +35,7 @@ def universities_list(request: HttpRequest) -> HttpResponse:
 
 
 class UniversityViewSet(ModelViewSet):
-    queryset = University.objects.exclude(longitude__isnull=True).order_by('-sum')
+    queryset = University.objects.exclude(longitude__isnull=True).filter(rating_position__gt=0).order_by('-sum')
     serializer_class = UniversitySerializer
 
 
